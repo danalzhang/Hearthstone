@@ -1,1 +1,1 @@
-# Hearthstone
+# Sorcery - Hearthstone Clone
