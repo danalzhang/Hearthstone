@@ -1,0 +1,22 @@
+Air Elemental:Minion;0;;1;1;;0:
+Earth Elemental:Minion;3;;4;4;;0:
+Bone Golem:Minion;2;Gain +1/+1 whenever a minion leaves play.;1;3;;3:
+Fire Elemental:Minion;2;Whenever an opponent's minion enters play, deal 1 damage to it.;2;2;;2:
+Potion Seller:Minion;2;At the end of your turn, all your minions gain +0/+1.;1;3;;4:
+Novice Pyromancer:Minion;1;Deal 1 damage to target minion;0;1;1;5:
+Apprentice Summoner:Minion;1;Summon a 1/1 air elemental;1;1;1;5:
+Master Summoner:Minion;3;Summon up to three 1/1 air elementals;2;3;2;5:
+Banish:Spell;2;Destroy target minion or ritual;;;;
+Unsummon:Spell;1;Return target minion to its owner's hand;;;;
+Recharge:Spell;1;Your ritual gains 3 charges;;;;
+Disenchant:Spell;1;Destroy the top enchantment on target minion;;;;
+Raise Dead:Spell;1;Resurrect the top minion in your graveyard and set its defence to 1;;;;
+Blizzard:Spell;3;Deal 2 damage to all minions;;;;
+Giant Strength:Enchantment;1;;+2;+2;;
+Enrage:Enchantment;2;;*2;*2;;
+Haste:Enchantment;1;Enchanted minion gains +1 action each turn;;;;
+Magic Fatigue:Enchantment;0;Enchanted minion's activated ability costs 2 more;;;;
+Silence:Enchantment;1;Enchanted minion cannot use abilities;;;;
+Dark Ritual:Ritual;0;At the start of your turn, gain 1 magic;;5;1;1:
+Aura of Power:Ritual;1;Whenever a minion enters play under your control, it gains +1/+1;;4;1;2:
+Standstill:Ritual;3;Whenever a minion enters play, destroy it;;4;2;2:
